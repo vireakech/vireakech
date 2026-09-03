@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vireakech&theme=react-dark&bg_color=0d1117&color=ff4500&line=ff4500&point=ff914d&area=true&hide_border=true&radius=10" width="95%" />
+
 
 
 
