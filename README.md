@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1500&color=FF4500&center=true&vCenter=true&width=650&lines=YEAR+2+STUDENT+%7C+FRONT-END+DEVELOPER+🔥;BUILDING+MODERN+WEB+EXPERIENCES+💻;PASSIONATE+ABOUT+UI%2FUX+DESIGN+🎨;PHNOM+PENH%2C+CAMBODIA+🇰🇭;CODE.+CREATE.+INNOVATE.+🚀" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1500&color=FF4500&center=true&vCenter=true&width=650&lines=Y2ND+STUDENT+%7C+FRONT-END+DEVELOPER+🔥;BUILDING+MODERN+WEB+EXPERIENCES+💻;PASSIONATE+ABOUT+UI%2FUX+DESIGN+🎨;PHNOM+PENH%2C+CAMBODIA+🇰🇭;CODE.+CREATE.+INNOVATE.+🚀" alt="Typing"/>
 </p>
 
 <!-- FIRE ANIMATION LINE -->
