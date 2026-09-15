@@ -21,14 +21,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/vireakech/vireakech/pacman-output/pacman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/vireakech/vireakech/pacman-output/pacman-contribution-graph.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/vireakech/vireakech/pacman-output/pacman-contribution-graph.svg"
       alt="Pacman contribution graph animation"
     />
   </picture>

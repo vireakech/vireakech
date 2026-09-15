@@ -25,10 +25,10 @@ jobs:
         with:
           github_user_name: vireakech
 
-      - name: Push to output branch
+      - name: Push to pacman output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: pacman-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
