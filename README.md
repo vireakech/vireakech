@@ -15,7 +15,7 @@
 
 
 
-![GitHub contribution graph](https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake.svg)
+![GitHub contribution graph](https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireakech&theme=highcontrast&background=0d1117&stroke=ff4500&ring=ff4500&fire=ff4500&hide_border=true" width="48%" />
