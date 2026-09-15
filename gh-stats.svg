@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <style>
+    .heading { animation: slidein 12s ease-out infinite; }
+    .underline { animation: bar 12s ease-out infinite; transform-origin: left center; }
+    .meta { animation: fade 12s ease-in-out infinite; }
+    .corner { animation: cornerSlide 12s ease-out infinite; }
+    .stat { animation: fadeUp 12s ease-out infinite; }
+    .s0 { animation-delay: 0.3s }
+    .s1 { animation-delay: 0.4s }
+    .s2 { animation-delay: 0.5s }
+    .s3 { animation-delay: 0.6000000000000001s }
+    .lang-bar { animation: bar 12s ease-out infinite; transform-origin: left center; }
+
+    @keyframes slidein {
+      0% { opacity: 0; transform: translateX(-12px) }
+      8% { opacity: 1; transform: translateX(0) }
+      90% { opacity: 1; transform: translateX(0) }
+      100% { opacity: 0; transform: translateX(0) }
+    }
+    @keyframes bar {
+      0%, 14% { transform: scaleX(0) }
+      24%, 88% { transform: scaleX(1) }
+      100% { transform: scaleX(1) }
+    }
+    @keyframes fade {
+      0%, 22% { opacity: 0 }
+      32%, 90% { opacity: 1 }
+      100% { opacity: 0 }
+    }
+    @keyframes fadeUp {
+      0%, 22% { opacity: 0; transform: translateY(8px) }
+      36%, 90% { opacity: 1; transform: translateY(0) }
+      100% { opacity: 0; transform: translateY(0) }
+    }
+    @keyframes cornerSlide {
+      0%, 8% { opacity: 0; transform: translateX(-8px) }
+      18%, 90% { opacity: 0.6; transform: translateX(0) }
+      100% { opacity: 0; transform: translateX(0) }
+    }
+  </style>
+  <defs>
+    <linearGradient id="sleek-stats-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0d10"/>
+      <stop offset="100%" stop-color="#0d0d10" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#sleek-stats-bg)" rx="14" ry="14"/>
+
+  <!-- corner decorations (mirrors sleek-header) -->
+  <g class="corner" opacity="0.6">
+    <rect x="40" y="42" width="22" height="2" fill="#dc2626"/>
+    <rect x="40" y="42" width="2" height="22" fill="#dc2626"/>
+  </g>
+  <g transform="translate(800 0) scale(-1 1)">
+    <g class="corner" opacity="0.6">
+      <rect x="40" y="42" width="22" height="2" fill="#dc2626"/>
+      <rect x="40" y="42" width="2" height="22" fill="#dc2626"/>
+    </g>
+  </g>
+
+  <!-- heading + accent underline -->
+  <text class="heading" x="48" y="84" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="36" font-weight="700" letter-spacing="-1.2">Activity.</text>
+  <rect class="underline" x="48" y="96" width="181" height="2" fill="#dc2626" rx="1"/>
+
+  <!-- meta line -->
+  <text class="meta" x="48" y="120" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="11" letter-spacing="2">@VIREAKECH   ·   205 CONTRIBUTIONS   ·   GRAPHQL</text>
+
+  <!-- stat blocks -->
+  <g transform="translate(48 156)">
+      <g class="stat s0">
+        <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">REPOS</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">7</text>
+        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">6 indexed</text>
+      </g>
+    </g>
+  <g transform="translate(230 156)">
+      <g class="stat s1">
+        <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">COMMITS</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">185</text>
+        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">this year</text>
+      </g>
+    </g>
+  <g transform="translate(412 156)">
+      <g class="stat s2">
+        <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">PRS</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">12</text>
+        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">12 this year</text>
+      </g>
+    </g>
+  <g transform="translate(594 156)">
+      <g class="stat s3">
+        <text x="0" y="0" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">REVIEWS</text>
+        <text x="0" y="38" fill="#f7f7fb" font-family='"Inter", system-ui, sans-serif' font-size="34" font-weight="700" letter-spacing="-1">0</text>
+        <text x="0" y="60" fill="#a5a5b3" font-family='"Inter", system-ui, sans-serif' font-size="11" font-weight="400">this year</text>
+      </g>
+    </g>
+
+  <!-- language strip -->
+  <rect x="48" y="254" width="704" height="6" rx="3" fill="#a5a5b3" fill-opacity="0.2"/>
+  <g class="lang-bar"><rect x="48" y="254" width="397.056" height="6" rx="3" fill="#00B4AB"/>
+  <rect x="445.056" y="254" width="110.52799999999999" height="6" rx="3" fill="#3572A5"/>
+  <rect x="555.584" y="254" width="77.44" height="6" rx="3" fill="#f34b7d"/>
+  <rect x="633.0239999999999" y="254" width="60.544" height="6" rx="3" fill="#DA3434"/>
+  <rect x="693.5679999999999" y="254" width="58.43200000000013" height="6" rx="3" fill="#663399"/></g>
+  <g>
+        <rect x="48" y="279" width="8" height="8" rx="2" fill="#00B4AB"/>
+        <text x="64" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">DART  56%</text>
+      </g>
+  <g>
+        <rect x="224" y="279" width="8" height="8" rx="2" fill="#3572A5"/>
+        <text x="240" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">PYTHON  16%</text>
+      </g>
+  <g>
+        <rect x="400" y="279" width="8" height="8" rx="2" fill="#f34b7d"/>
+        <text x="416" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">C++  11%</text>
+      </g>
+  <g>
+        <rect x="576" y="279" width="8" height="8" rx="2" fill="#DA3434"/>
+        <text x="592" y="286" fill="#a5a5b3" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">CMAKE  9%</text>
+      </g>
+</svg>
