@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vireakech's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=NHOA%20KEAVIREAKECH&fontSize=50&fontColor=F8F8FF&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
