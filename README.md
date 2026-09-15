@@ -11,11 +11,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph.svg">
-</picture>
 
 ![GitHub contribution graph](https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake.svg)
 
