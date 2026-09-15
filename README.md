@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="vireakech's GitHub profile" src="dark_mode.svg" />
-</picture>
 
 <img src="https://raw.githubusercontent.com/vireakech/vireakech/main/header.svg" width="100%" alt="Sleek Hero">
 
@@ -29,6 +24,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1500&color=FF4500&center=true&vCenter=true&width=650&lines=Y3+STUDENT+%7C+FRONT-END+DEVELOPER+🔥;BUILDING+MODERN+WEB+EXPERIENCES+💻;PASSIONATE+ABOUT+UI%2FUX+DESIGN+🎨;PHNOM+PENH%2C+CAMBODIA+🇰🇭;CODE.+CREATE.+INNOVATE.+🚀" alt="Typing"/>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="vireakech's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <!-- FIRE ANIMATION LINE -->
 <p align="center">
