@@ -4,6 +4,24 @@
   <img alt="vireakech's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<img src="https://raw.githubusercontent.com/vireakech/vireakech/main/header.svg" width="100%" alt="Sleek Hero">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/vireakech/vireakech/main/about.svg" width="100%" alt="Sleek About">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/vireakech/vireakech/main/skills.svg" width="100%" alt="Sleek Stack">
+
+<br>
+
+<img src="https://ryme.md/api/render/sleek-github-stats?u=vireakech&bg=0d0d10&fg=f7f7fb&accent=dc2626&muted=a5a5b3" width="100%" alt="Sleek GitHub">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/vireakech/vireakech/main/footer.svg" width="100%" alt="Sleek Wave">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=NHOA%20KEAVIREAKECH&fontSize=50&fontColor=F8F8FF&animation=twinkling&fontAlignY=35" width="100%" />
 </p>
