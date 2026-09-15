@@ -17,11 +17,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vireakech/vireakech/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-light.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+![GitHub contribution graph](https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireakech&theme=highcontrast&background=0d1117&stroke=ff4500&ring=ff4500&fire=ff4500&hide_border=true" width="48%" />
