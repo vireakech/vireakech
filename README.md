@@ -18,9 +18,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vireakech/vireakech/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vireakech/vireakech/blob/output/github-contribution-grid-snake-light.svg"/>
-  <img alt="github-snake" src="https://github.com/vireakech/vireakech/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-light.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <p align="center">
