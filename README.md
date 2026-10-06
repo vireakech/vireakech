@@ -34,7 +34,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireakech&theme=highcontrast&background=0d1117&stroke=ff4500&ring=ff4500&fire=ff4500&hide_border=true" width="48%" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake-light.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vireakech/vireakech/output/github-contribution-grid-snake.svg" />
+</picture>
 <p align="center">
   <img src="https://stats.pphat.top/stats?username=vireakech&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in&color=red" />
 </p>
