@@ -13,6 +13,58 @@
 <br>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="9" align="center"><strong>H &nbsp; G &nbsp; F &nbsp; E &nbsp; D &nbsp; C &nbsp; B &nbsp; A</strong></td>
+    </tr>
+    <tr>
+      <td><strong>1</strong></td>
+      <td>♖</td><td>　</td><td>♗</td><td>♔</td><td>　</td><td>♗</td><td>♘</td><td>♖</td>
+      <td><strong>1</strong></td>
+    </tr>
+    <tr>
+      <td><strong>2</strong></td>
+      <td>♙</td><td>♙</td><td>♙</td><td>♙</td><td>　</td><td>♙</td><td>♙</td><td>　</td>
+      <td><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td><strong>3</strong></td>
+      <td>　</td><td>　</td><td>♘</td><td>　</td><td>　</td><td>　</td><td>　</td><td>♙</td>
+      <td><strong>3</strong></td>
+    </tr>
+    <tr>
+      <td><strong>4</strong></td>
+      <td>　</td><td>♝</td><td>　</td><td>　</td><td>♙</td><td>　</td><td>　</td><td>　</td>
+      <td><strong>4</strong></td>
+    </tr>
+    <tr>
+      <td><strong>5</strong></td>
+      <td>　</td><td>　</td><td>　</td><td>　</td><td>♟</td><td>　</td><td>　</td><td>　</td>
+      <td><strong>5</strong></td>
+    </tr>
+    <tr>
+      <td><strong>6</strong></td>
+      <td>　</td><td>　</td><td>　</td><td>♟</td><td>　</td><td>♞</td><td>　</td><td>♟</td>
+      <td><strong>6</strong></td>
+    </tr>
+    <tr>
+      <td><strong>7</strong></td>
+      <td>♟</td><td>♟</td><td>♟</td><td>　</td><td>　</td><td>♟</td><td>　</td><td>♜</td>
+      <td><strong>7</strong></td>
+    </tr>
+    <tr>
+      <td><strong>8</strong></td>
+      <td>♜</td><td>♞</td><td>♝</td><td>♚</td><td>♛</td><td>♕</td><td>　</td><td>　</td>
+      <td><strong>8</strong></td>
+    </tr>
+    <tr>
+      <td colspan="9" align="center"><strong>H &nbsp; G &nbsp; F &nbsp; E &nbsp; D &nbsp; C &nbsp; B &nbsp; A</strong></td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 <p align="center">
@@ -53,16 +105,5 @@
 
 <img src="https://raw.githubusercontent.com/vireakech/vireakech/main/footer.svg" width="100%" alt="Sleek Wave">
 
-## Chess Board
 
-|   | H | G | F | E | D | C | B | A |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---|
-| **1** | &#9814; | &nbsp; | &#9815; | &#9812; | &nbsp; | &#9815; | &#9816; | &#9814; | **1** |
-| **2** | &#9817; | &#9817; | &#9817; | &#9817; | &nbsp; | &#9817; | &#9817; | &nbsp; | **2** |
-| **3** | &nbsp; | &nbsp; | &#9816; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &#9817; | **3** |
-| **4** | &nbsp; | &#9821; | &nbsp; | &nbsp; | &#9817; | &nbsp; | &nbsp; | &nbsp; | **4** |
-| **5** | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &#9823; | &nbsp; | &nbsp; | &nbsp; | **5** |
-| **6** | &nbsp; | &nbsp; | &nbsp; | &#9823; | &nbsp; | &#9822; | &nbsp; | &#9823; | **6** |
-| **7** | &#9823; | &#9823; | &#9823; | &nbsp; | &nbsp; | &#9823; | &nbsp; | &#9820; | **7** |
-| **8** | &#9820; | &#9822; | &#9821; | &#9818; | &#9819; | &#9813; | &nbsp; | &nbsp; | **8** |
-|   | **H** | **G** | **F** | **E** | **D** | **C** | **B** | **A** |   |
+
