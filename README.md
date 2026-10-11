@@ -2,11 +2,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="vireakech's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 <br>
 <img src="https://ryme.md/api/render/sleek-github-stats?u=vireakech&bg=0d0d10&fg=f7f7fb&accent=dc2626&muted=a5a5b3" width="100%" alt="Sleek GitHub">
 
