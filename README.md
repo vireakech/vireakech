@@ -13,57 +13,6 @@
 <br>
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td colspan="9" align="center"><strong>H &nbsp; G &nbsp; F &nbsp; E &nbsp; D &nbsp; C &nbsp; B &nbsp; A</strong></td>
-    </tr>
-    <tr>
-      <td><strong>1</strong></td>
-      <td>♖</td><td>　</td><td>♗</td><td>♔</td><td>　</td><td>♗</td><td>♘</td><td>♖</td>
-      <td><strong>1</strong></td>
-    </tr>
-    <tr>
-      <td><strong>2</strong></td>
-      <td>♙</td><td>♙</td><td>♙</td><td>♙</td><td>　</td><td>♙</td><td>♙</td><td>　</td>
-      <td><strong>2</strong></td>
-    </tr>
-    <tr>
-      <td><strong>3</strong></td>
-      <td>　</td><td>　</td><td>♘</td><td>　</td><td>　</td><td>　</td><td>　</td><td>♙</td>
-      <td><strong>3</strong></td>
-    </tr>
-    <tr>
-      <td><strong>4</strong></td>
-      <td>　</td><td>♝</td><td>　</td><td>　</td><td>♙</td><td>　</td><td>　</td><td>　</td>
-      <td><strong>4</strong></td>
-    </tr>
-    <tr>
-      <td><strong>5</strong></td>
-      <td>　</td><td>　</td><td>　</td><td>　</td><td>♟</td><td>　</td><td>　</td><td>　</td>
-      <td><strong>5</strong></td>
-    </tr>
-    <tr>
-      <td><strong>6</strong></td>
-      <td>　</td><td>　</td><td>　</td><td>♟</td><td>　</td><td>♞</td><td>　</td><td>♟</td>
-      <td><strong>6</strong></td>
-    </tr>
-    <tr>
-      <td><strong>7</strong></td>
-      <td>♟</td><td>♟</td><td>♟</td><td>　</td><td>　</td><td>♟</td><td>　</td><td>♜</td>
-      <td><strong>7</strong></td>
-    </tr>
-    <tr>
-      <td><strong>8</strong></td>
-      <td>♜</td><td>♞</td><td>♝</td><td>♚</td><td>♛</td><td>♕</td><td>　</td><td>　</td>
-      <td><strong>8</strong></td>
-    </tr>
-    <tr>
-      <td colspan="9" align="center"><strong>H &nbsp; G &nbsp; F &nbsp; E &nbsp; D &nbsp; C &nbsp; B &nbsp; A</strong></td>
-    </tr>
-  </table>
-</div>
-
 
 
 
