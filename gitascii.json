@@ -62,7 +62,8 @@
         "animationType": "fade-in",
         "animationPreviewKey": 1,
         "secondaryColor": "#ff00ff",
-        "backgroundColor": "#ff00ff"
+        "backgroundColor": "#ff00ff",
+        "textColor": "#ff00ff"
       },
       "locked": false,
       "visible": true,
@@ -199,7 +200,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358028912_idh2k",
-    "updatedAt": "2026-11-22T14:33:54.419Z"
+    "revision": "rev_1795358099638_23l91",
+    "updatedAt": "2026-11-22T14:35:03.648Z"
   }
 }
