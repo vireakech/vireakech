@@ -5,191 +5,81 @@
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
-        "x": 0,
+        "x": 10,
         "y": 0
       },
       "size": {
-        "width": 800,
-        "height": 424
+        "width": 780,
+        "height": 417
       },
       "config": {
-        "accentColor": "#bd93f9",
-        "customTitle": "Surveillance Header",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "textColor": "#ff00ff"
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
       },
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1795354933708_0"
+      "instanceId": "widget_1795358725830_0"
     },
     {
       "widgetId": "surveillance-telemetry",
       "name": "Surveillance-telemetry Widget",
       "position": {
         "x": 10,
-        "y": 400
+        "y": 417
       },
       "size": {
         "width": 780,
         "height": 420
       },
       "config": {
-        "accentColor": "#bd93f9",
-        "customTitle": "Terminal Telemetry",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
       },
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1795354933708_1"
+      "instanceId": "widget_1795358725830_1"
     },
     {
       "widgetId": "surveillance-feeds",
       "name": "Surveillance-feeds Widget",
       "position": {
         "x": 10,
-        "y": 828
+        "y": 845
       },
       "size": {
         "width": 780,
         "height": 190
       },
       "config": {
-        "accentColor": "#bd93f9",
-        "customTitle": "Surveillance Social Feeds",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "secondaryColor": "#ff00ff",
-        "backgroundColor": "#ff00ff",
-        "textColor": "#ff00ff"
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Social Feeds"
       },
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1795354933708_2"
+      "instanceId": "widget_1795358725830_2"
     },
     {
-      "instanceId": "widget_6c98d60c-ca68-4d31-b10c-9c76408dd723",
-      "widgetId": "profile-trophy",
-      "name": "Profile-trophy Widget",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 0,
-        "y": 1018
+        "x": 10,
+        "y": 1051
       },
       "size": {
-        "width": 800,
+        "width": 780,
         "height": 200
       },
       "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "textColor": "#ff00ff",
-        "accentColor": "#bd93f9",
-        "borderColor": "transparent",
-        "backgroundColor": "transparent",
-        "secondaryColor": "#bd93f9"
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 5
-    },
-    {
-      "instanceId": "widget_12f21f54-0471-4cad-99d0-d4b5cf336481",
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
-      "position": {
-        "x": 390,
-        "y": 1234
-      },
-      "size": {
-        "width": 390,
-        "height": 210
-      },
-      "config": {
-        "textColor": "#c5ff4a",
-        "backgroundColor": "transparent",
-        "borderColor": "#c5ff4a",
-        "animationType": "slide-down",
-        "animationPreviewKey": 6,
-        "accentColor": "#bd93f9",
-        "secondaryColor": "#bd93f9"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_b63d5732-ce9a-4628-aaa8-b4ebb348f122",
-      "widgetId": "github-readme-stats",
-      "name": "Github-readme-stats Widget",
-      "position": {
-        "x": 390,
-        "y": 1442
-      },
-      "size": {
-        "width": 390,
-        "height": 178
-      },
-      "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "backgroundColor": "transparent",
-        "accentColor": "#bd93f9",
-        "secondaryColor": "#bd93f9"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_e57a1a6c-5c60-4e08-96ef-786f049b6a0c",
-      "widgetId": "premium-ascii-profile-card",
-      "name": "Premium-ascii-profile-card Widget",
-      "position": {
-        "x": 0,
-        "y": 1234
-      },
-      "size": {
-        "width": 400,
-        "height": 400
-      },
-      "config": {
-        "lockAspectRatio": true,
-        "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#bd93f9",
-        "secondaryColor": "#ff00ff",
-        "borderColor": "#30363d"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
-      "instanceId": "widget_8d8d9c21-0fb7-42e1-a237-820801b2ae6e",
-      "widgetId": "custom-image",
-      "name": "Custom-image Widget",
-      "position": {
-        "x": 0,
-        "y": 1620
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "accentColor": "#bd93f9",
-        "secondaryColor": "#bd93f9",
-        "backgroundColor": "transparent"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
+      "zIndex": 4,
+      "instanceId": "widget_1795358725830_3"
     }
   ],
   "globalStyles": {
@@ -206,7 +96,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358399706_4bwkt",
-    "updatedAt": "2026-11-22T14:40:03.773Z"
+    "revision": "rev_1795358731291_nq9h8",
+    "updatedAt": "2026-11-22T14:45:41.432Z"
   }
 }
