@@ -86,10 +86,10 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "textColor": "#bd93f9",
+        "textColor": "#ff00ff",
         "accentColor": "#bd93f9",
-        "borderColor": "#ff00ff",
-        "backgroundColor": "#bd93f9",
+        "borderColor": "transparent",
+        "backgroundColor": "transparent",
         "secondaryColor": "#bd93f9"
       },
       "locked": false,
@@ -109,8 +109,8 @@
         "height": 210
       },
       "config": {
-        "textColor": "#bd93f9",
-        "backgroundColor": "#bd93f9",
+        "textColor": "#c5ff4a",
+        "backgroundColor": "transparent",
         "borderColor": "#c5ff4a",
         "animationType": "slide-down",
         "animationPreviewKey": 6,
@@ -136,10 +136,9 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "backgroundColor": "#bd93f9",
+        "backgroundColor": "transparent",
         "accentColor": "#bd93f9",
-        "secondaryColor": "#bd93f9",
-        "textColor": "#bd93f9"
+        "secondaryColor": "#bd93f9"
       },
       "locked": false,
       "visible": true,
@@ -160,11 +159,10 @@
       "config": {
         "lockAspectRatio": true,
         "transparentBackground": true,
-        "backgroundColor": "#bd93f9",
+        "backgroundColor": "transparent",
         "accentColor": "#bd93f9",
-        "secondaryColor": "#bd93f9",
-        "borderColor": "#30363d",
-        "textColor": "#bd93f9"
+        "secondaryColor": "#ff00ff",
+        "borderColor": "#30363d"
       },
       "locked": false,
       "visible": true,
@@ -185,7 +183,9 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "accentColor": "#ff00ff"
+        "accentColor": "#bd93f9",
+        "secondaryColor": "#bd93f9",
+        "backgroundColor": "transparent"
       },
       "locked": false,
       "visible": true,
@@ -206,7 +206,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358251124_hns3v",
-    "updatedAt": "2026-11-22T14:37:37.936Z"
+    "revision": "rev_1795358399706_4bwkt",
+    "updatedAt": "2026-11-22T14:40:03.773Z"
   }
 }
