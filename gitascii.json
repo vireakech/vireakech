@@ -2,40 +2,36 @@
   "username": "vireakech",
   "widgets": [
     {
-      "widgetId": "header",
-      "name": "Header Widget",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
       "position": {
-        "x": 0,
-        "y": 0
+        "x": 296,
+        "y": 96
       },
       "size": {
-        "width": 800,
-        "height": 90
+        "width": 504,
+        "height": 280
       },
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1795353428153_0"
+      "zIndex": 3,
+      "instanceId": "widget_1795353743520_2"
     },
     {
-      "widgetId": "ascii-art",
-      "name": "Ascii-art Widget",
+      "instanceId": "widget_deedea30-8851-4bd7-89e9-f4ea13b9a6b2",
+      "widgetId": "asciiprofile-portrait",
+      "name": "Asciiprofile-portrait Widget",
       "position": {
         "x": 0,
-        "y": 106
+        "y": 96
       },
       "size": {
-        "width": 280,
+        "width": 304,
         "height": 280
       },
       "config": {
-        "detail": "medium",
-        "cols": 150,
-        "charset": "dense",
-        "edgeEnhance": true,
-        "lockAspectRatio": true,
-        "rows": 75,
+        "accentColor": "#ffa657",
         "asciiText": [
           "rrr)t(_':_*fI*;=^>>>+c**r++!+!!rc*c*!__^>++c*sL)/cc*)1yaYZltuf|JT?!>^,::'''-''----.......':_;!!<+!+!cc!rzLs/?77?*><lw9666h6hkPPP4ObGGOVw3>^+?LTs?/LiZq",
           "!=+TFv_.'!()(<;=,:,^=;=;=^^^=;=>>>>>>,'_^^==<rcc*<=+s(ffI3Cl[(z!+>^_:'-..':,,_:'-.```````.--:;<=^^;c/crr!cc/s?+=<+voollt1311IIfte[[ll[ne5CL?)vvv/+?C[q",
@@ -11514,93 +11510,13 @@
             "#e8e8e8",
             "#e7e7e7"
           ]
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1795353428153_1"
-    },
-    {
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 296,
-        "y": 106
-      },
-      "size": {
-        "width": 504,
-        "height": 280
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1795353428153_2"
-    },
-    {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 536,
-        "height": 160
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1795353428153_3"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1795353428153_4"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 544,
-        "y": 402
-      },
-      "size": {
-        "width": 240,
-        "height": 160
-      },
-      "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
         ],
-        "theme": "dark",
-        "perLine": 4
+        "cols": 150,
+        "rows": 75
       },
       "locked": false,
       "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1795353428153_5"
+      "zIndex": 3
     }
   ],
   "globalStyles": {
@@ -11617,7 +11533,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795353456607_t99xw",
-    "updatedAt": "2026-11-22T13:17:41.759Z"
+    "revision": "rev_1795353830941_rdzeb",
+    "updatedAt": "2026-11-22T13:23:56.748Z"
   }
 }
