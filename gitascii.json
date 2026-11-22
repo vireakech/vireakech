@@ -16,7 +16,8 @@
         "accentColor": "#ff00ff",
         "customTitle": "Surveillance Header",
         "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "textColor": "#ff00ff"
       },
       "locked": false,
       "visible": true,
@@ -200,7 +201,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358099638_23l91",
-    "updatedAt": "2026-11-22T14:35:03.648Z"
+    "revision": "rev_1795358119006_als9b",
+    "updatedAt": "2026-11-22T14:35:21.519Z"
   }
 }
