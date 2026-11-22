@@ -5,8 +5,8 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 296,
-        "y": 96
+        "x": 288,
+        "y": 0
       },
       "size": {
         "width": 504,
@@ -24,7 +24,7 @@
       "name": "Asciiprofile-portrait Widget",
       "position": {
         "x": 0,
-        "y": 96
+        "y": 0
       },
       "size": {
         "width": 304,
@@ -11533,7 +11533,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795353830941_rdzeb",
-    "updatedAt": "2026-11-22T13:23:56.748Z"
+    "revision": "rev_1795353970732_7m75o",
+    "updatedAt": "2026-11-22T13:26:15.483Z"
   }
 }
