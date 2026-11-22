@@ -62,32 +62,12 @@
       "instanceId": "widget_1795354933708_2"
     },
     {
-      "widgetId": "surveillance-loadout",
-      "name": "Surveillance-loadout Widget",
-      "position": {
-        "x": 10,
-        "y": 1179
-      },
-      "size": {
-        "width": 780,
-        "height": 200
-      },
-      "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Daily Loadout"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1795354933708_3"
-    },
-    {
       "instanceId": "widget_6c98d60c-ca68-4d31-b10c-9c76408dd723",
       "widgetId": "profile-trophy",
       "name": "Profile-trophy Widget",
       "position": {
         "x": 0,
-        "y": 1387
+        "y": 1163
       },
       "size": {
         "width": 800,
@@ -99,29 +79,12 @@
       "zIndex": 5
     },
     {
-      "instanceId": "widget_cbabf313-e6ab-4bdd-bbf3-d0bf43a47308",
-      "widgetId": "ghstats",
-      "name": "Ghstats Widget",
-      "position": {
-        "x": 0,
-        "y": 1603
-      },
-      "size": {
-        "width": 390,
-        "height": 418
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_12f21f54-0471-4cad-99d0-d4b5cf336481",
       "widgetId": "streak-stats",
       "name": "Streak-stats Widget",
       "position": {
         "x": 390,
-        "y": 1603
+        "y": 1379
       },
       "size": {
         "width": 390,
@@ -138,7 +101,7 @@
       "name": "Github-readme-stats Widget",
       "position": {
         "x": 390,
-        "y": 1811
+        "y": 1587
       },
       "size": {
         "width": 390,
@@ -186,7 +149,7 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 2037
+        "y": 1813
       },
       "size": {
         "width": 800,
@@ -210,6 +173,30 @@
       "locked": false,
       "visible": true,
       "zIndex": 10
+    },
+    {
+      "instanceId": "widget_e57a1a6c-5c60-4e08-96ef-786f049b6a0c",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
+      "position": {
+        "x": 0,
+        "y": 1379
+      },
+      "size": {
+        "width": 400,
+        "height": 400
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
     }
   ],
   "globalStyles": {
@@ -226,7 +213,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795355341534_8s7qv",
-    "updatedAt": "2026-11-22T13:49:05.964Z"
+    "revision": "rev_1795355540010_lh0en",
+    "updatedAt": "2026-11-22T13:52:23.875Z"
   }
 }
