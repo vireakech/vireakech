@@ -5,16 +5,18 @@
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
-        "x": 10,
-        "y": 128
+        "x": 0,
+        "y": 0
       },
       "size": {
-        "width": 780,
-        "height": 417
+        "width": 800,
+        "height": 424
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header"
+        "accentColor": "#ff00ff",
+        "customTitle": "Surveillance Header",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -26,15 +28,17 @@
       "name": "Surveillance-telemetry Widget",
       "position": {
         "x": 10,
-        "y": 545
+        "y": 400
       },
       "size": {
         "width": 780,
         "height": 420
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Terminal Telemetry"
+        "accentColor": "#ff00ff",
+        "customTitle": "Terminal Telemetry",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -46,15 +50,19 @@
       "name": "Surveillance-feeds Widget",
       "position": {
         "x": 10,
-        "y": 973
+        "y": 828
       },
       "size": {
         "width": 780,
         "height": 190
       },
       "config": {
-        "accentColor": "#55ffff",
-        "customTitle": "Surveillance Social Feeds"
+        "accentColor": "#ff00ff",
+        "customTitle": "Surveillance Social Feeds",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "secondaryColor": "#ff00ff",
+        "backgroundColor": "#ff00ff"
       },
       "locked": false,
       "visible": true,
@@ -67,13 +75,20 @@
       "name": "Profile-trophy Widget",
       "position": {
         "x": 0,
-        "y": 1163
+        "y": 1018
       },
       "size": {
         "width": 800,
         "height": 200
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "textColor": "#ff00ff",
+        "accentColor": "#ff00ff",
+        "borderColor": "#ff00ff",
+        "backgroundColor": "#ff00ff"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 5
@@ -84,13 +99,20 @@
       "name": "Streak-stats Widget",
       "position": {
         "x": 390,
-        "y": 1379
+        "y": 1234
       },
       "size": {
         "width": 390,
         "height": 210
       },
-      "config": {},
+      "config": {
+        "textColor": "#c5ff4a",
+        "backgroundColor": "#ff00ff",
+        "borderColor": "#c5ff4a",
+        "animationType": "slide-down",
+        "animationPreviewKey": 6,
+        "accentColor": "#ff00ff"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -101,78 +123,21 @@
       "name": "Github-readme-stats Widget",
       "position": {
         "x": 390,
-        "y": 1587
+        "y": 1442
       },
       "size": {
         "width": 390,
-        "height": 210
+        "height": 178
       },
-      "config": {},
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "backgroundColor": "#ff00ff",
+        "accentColor": "#ff00ff"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 8
-    },
-    {
-      "instanceId": "widget_435fdd86-0ad4-4367-8f95-71421d6c7172",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "customText": "tek",
-        "asciiFont": "block",
-        "charSpacing": 1,
-        "fontSize": 12,
-        "charset": "default",
-        "customCharset": "",
-        "asciiLines": [
-          "████████ ████████ ██    ██",
-          "   ██    ██       ██  ▄█▀ ",
-          "   ██    ██████   █████▄  ",
-          "   ██    ██       ██  ▀██▄",
-          "   ██    ████████ ██    ██"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_37489a7b-0b59-40c9-ac11-c0d39475e84f",
-      "widgetId": "ascii-text",
-      "name": "Ascii-text Widget",
-      "position": {
-        "x": 0,
-        "y": 1813
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "customText": "CItra",
-        "asciiFont": "block",
-        "charSpacing": 1,
-        "fontSize": 12,
-        "charset": "default",
-        "customCharset": "",
-        "asciiLines": [
-          " ▄████▄  ████████ ████████ ███████▄  ▄████▄ ",
-          "██    ▀▀    ██       ██    ██    ██ ██    ██",
-          "██          ██       ██    ███████▀ ████████",
-          "██    ▄▄    ██       ██    ██  ▀██▄ ██    ██",
-          " ▀████▀  ████████    ██    ██    ██ ██    ██"
-        ]
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
     },
     {
       "instanceId": "widget_e57a1a6c-5c60-4e08-96ef-786f049b6a0c",
@@ -180,7 +145,7 @@
       "name": "Premium-ascii-profile-card Widget",
       "position": {
         "x": 0,
-        "y": 1379
+        "y": 1234
       },
       "size": {
         "width": 400,
@@ -190,9 +155,30 @@
         "lockAspectRatio": true,
         "transparentBackground": true,
         "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
+        "accentColor": "#ff00ff",
+        "secondaryColor": "#ff00ff",
         "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_8d8d9c21-0fb7-42e1-a237-820801b2ae6e",
+      "widgetId": "custom-image",
+      "name": "Custom-image Widget",
+      "position": {
+        "x": 0,
+        "y": 1620
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "accentColor": "#ff00ff"
       },
       "locked": false,
       "visible": true,
@@ -213,7 +199,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795355540010_lh0en",
-    "updatedAt": "2026-11-22T13:52:23.875Z"
+    "revision": "rev_1795358028912_idh2k",
+    "updatedAt": "2026-11-22T14:33:54.419Z"
   }
 }
