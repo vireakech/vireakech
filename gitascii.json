@@ -5,8 +5,8 @@
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
-        "x": 10,
-        "y": 0
+        "x": 20,
+        "y": 136
       },
       "size": {
         "width": 780,
@@ -25,8 +25,8 @@
       "widgetId": "surveillance-telemetry",
       "name": "Surveillance-telemetry Widget",
       "position": {
-        "x": 10,
-        "y": 417
+        "x": 20,
+        "y": 553
       },
       "size": {
         "width": 780,
@@ -45,8 +45,8 @@
       "widgetId": "surveillance-feeds",
       "name": "Surveillance-feeds Widget",
       "position": {
-        "x": 10,
-        "y": 845
+        "x": 20,
+        "y": 981
       },
       "size": {
         "width": 780,
@@ -65,8 +65,8 @@
       "widgetId": "surveillance-loadout",
       "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 10,
-        "y": 1051
+        "x": 20,
+        "y": 1187
       },
       "size": {
         "width": 780,
@@ -80,6 +80,68 @@
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1795354364925_3"
+    },
+    {
+      "instanceId": "widget_8f181b84-b2dd-4da1-95d6-1e2fd70d270c",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "GitAscii",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          " ▄████▄  ████████ ████████  ▄████▄   ▄█████   ▄████▄  ████████ ████████",
+          "██    ▀▀    ██       ██    ██    ██ ██       ██    ▀▀    ██       ██   ",
+          "██  ████    ██       ██    ████████  ▀████▄  ██          ██       ██   ",
+          "██    ██    ██       ██    ██    ██       ██ ██    ▄▄    ██       ██   ",
+          " ▀████▀  ████████    ██    ██    ██ ██████▀   ▀████▀  ████████ ████████"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_92ca8776-30d7-45d2-a00a-c364314fad03",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 1387
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "GitAscii",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          " ▄████▄  ████████ ████████  ▄████▄   ▄█████   ▄████▄  ████████ ████████",
+          "██    ▀▀    ██       ██    ██    ██ ██       ██    ▀▀    ██       ██   ",
+          "██  ████    ██       ██    ████████  ▀████▄  ██          ██       ██   ",
+          "██    ██    ██       ██    ██    ██       ██ ██    ▄▄    ██       ██   ",
+          " ▀████▀  ████████    ██    ██    ██ ██████▀   ▀████▀  ████████ ████████"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -96,7 +158,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795354419759_m6mwu",
-    "updatedAt": "2026-11-22T13:33:43.576Z"
+    "revision": "rev_1795354587985_og5yn",
+    "updatedAt": "2026-11-22T13:36:33.078Z"
   }
 }
