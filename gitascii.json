@@ -14,7 +14,9 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header"
+        "customTitle": "Surveillance Header",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -34,7 +36,9 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Terminal Telemetry"
+        "customTitle": "Terminal Telemetry",
+        "animationType": "fade-in",
+        "animationPreviewKey": 5
       },
       "locked": false,
       "visible": true,
@@ -54,7 +58,9 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Surveillance Social Feeds"
+        "customTitle": "Surveillance Social Feeds",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -74,7 +80,9 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Daily Loadout"
+        "customTitle": "Daily Loadout",
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -106,7 +114,9 @@
           "██  ████    ██       ██    ████████  ▀████▄  ██          ██       ██   ",
           "██    ██    ██       ██    ██    ██       ██ ██    ▄▄    ██       ██   ",
           " ▀████▀  ████████    ██    ██    ██ ██████▀   ▀████▀  ████████ ████████"
-        ]
+        ],
+        "animationType": "fade-in",
+        "animationPreviewKey": 15
       },
       "locked": false,
       "visible": true,
@@ -125,19 +135,21 @@
         "height": 120
       },
       "config": {
-        "customText": "GitAscii",
+        "customText": "VIreakech",
         "asciiFont": "block",
         "charSpacing": 1,
         "fontSize": 12,
         "charset": "default",
         "customCharset": "",
         "asciiLines": [
-          " ▄████▄  ████████ ████████  ▄████▄   ▄█████   ▄████▄  ████████ ████████",
-          "██    ▀▀    ██       ██    ██    ██ ██       ██    ▀▀    ██       ██   ",
-          "██  ████    ██       ██    ████████  ▀████▄  ██          ██       ██   ",
-          "██    ██    ██       ██    ██    ██       ██ ██    ▄▄    ██       ██   ",
-          " ▀████▀  ████████    ██    ██    ██ ██████▀   ▀████▀  ████████ ████████"
-        ]
+          "██    ██ ████████ ███████▄ ████████  ▄████▄  ██    ██ ████████  ▄████▄  ██    ██",
+          "██    ██    ██    ██    ██ ██       ██    ██ ██  ▄█▀  ██       ██    ▀▀ ██    ██",
+          "██    ██    ██    ███████▀ ██████   ████████ █████▄   ██████   ██       ████████",
+          " ▀████▀     ██    ██  ▀██▄ ██       ██    ██ ██  ▀██▄ ██       ██    ▄▄ ██    ██",
+          "   ▀▀    ████████ ██    ██ ████████ ██    ██ ██    ██ ████████  ▀████▀  ██    ██"
+        ],
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -158,7 +170,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795354587985_og5yn",
-    "updatedAt": "2026-11-22T13:36:33.078Z"
+    "revision": "rev_1795354871126_3ywyw",
+    "updatedAt": "2026-11-22T13:41:15.968Z"
   }
 }
