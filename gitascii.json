@@ -13,7 +13,7 @@
         "height": 424
       },
       "config": {
-        "accentColor": "#ff00ff",
+        "accentColor": "#bd93f9",
         "customTitle": "Surveillance Header",
         "animationType": "fade-in",
         "animationPreviewKey": 1,
@@ -36,7 +36,7 @@
         "height": 420
       },
       "config": {
-        "accentColor": "#ff00ff",
+        "accentColor": "#bd93f9",
         "customTitle": "Terminal Telemetry",
         "animationType": "fade-in",
         "animationPreviewKey": 1
@@ -58,7 +58,7 @@
         "height": 190
       },
       "config": {
-        "accentColor": "#ff00ff",
+        "accentColor": "#bd93f9",
         "customTitle": "Surveillance Social Feeds",
         "animationType": "fade-in",
         "animationPreviewKey": 1,
@@ -86,10 +86,11 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "textColor": "#ff00ff",
-        "accentColor": "#ff00ff",
+        "textColor": "#bd93f9",
+        "accentColor": "#bd93f9",
         "borderColor": "#ff00ff",
-        "backgroundColor": "#ff00ff"
+        "backgroundColor": "#bd93f9",
+        "secondaryColor": "#bd93f9"
       },
       "locked": false,
       "visible": true,
@@ -108,12 +109,13 @@
         "height": 210
       },
       "config": {
-        "textColor": "#c5ff4a",
-        "backgroundColor": "#ff00ff",
+        "textColor": "#bd93f9",
+        "backgroundColor": "#bd93f9",
         "borderColor": "#c5ff4a",
         "animationType": "slide-down",
         "animationPreviewKey": 6,
-        "accentColor": "#ff00ff"
+        "accentColor": "#bd93f9",
+        "secondaryColor": "#bd93f9"
       },
       "locked": false,
       "visible": true,
@@ -134,8 +136,10 @@
       "config": {
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "backgroundColor": "#ff00ff",
-        "accentColor": "#ff00ff"
+        "backgroundColor": "#bd93f9",
+        "accentColor": "#bd93f9",
+        "secondaryColor": "#bd93f9",
+        "textColor": "#bd93f9"
       },
       "locked": false,
       "visible": true,
@@ -156,10 +160,11 @@
       "config": {
         "lockAspectRatio": true,
         "transparentBackground": true,
-        "backgroundColor": "transparent",
-        "accentColor": "#ff00ff",
-        "secondaryColor": "#ff00ff",
-        "borderColor": "#30363d"
+        "backgroundColor": "#bd93f9",
+        "accentColor": "#bd93f9",
+        "secondaryColor": "#bd93f9",
+        "borderColor": "#30363d",
+        "textColor": "#bd93f9"
       },
       "locked": false,
       "visible": true,
@@ -201,7 +206,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358119006_als9b",
-    "updatedAt": "2026-11-22T14:35:21.519Z"
+    "revision": "rev_1795358251124_hns3v",
+    "updatedAt": "2026-11-22T14:37:37.936Z"
   }
 }
