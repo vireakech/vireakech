@@ -80,6 +80,46 @@
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1795358725830_3"
+    },
+    {
+      "instanceId": "widget_199aebcd-4b19-4238-b860-4f69009e95ae",
+      "widgetId": "controlplane-signal-grid",
+      "name": "Controlplane-signal-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 1267
+      },
+      "size": {
+        "width": 800,
+        "height": 320
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_7d291442-1738-4e4e-9c29-b2b759a6cd2f",
+      "widgetId": "controlplane-command-deck",
+      "name": "Controlplane-command-deck Widget",
+      "position": {
+        "x": 0,
+        "y": 1603
+      },
+      "size": {
+        "width": 800,
+        "height": 300
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -96,7 +136,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795358731291_nq9h8",
-    "updatedAt": "2026-11-22T14:45:41.432Z"
+    "revision": "rev_1795358866002_yc854",
+    "updatedAt": "2026-11-22T14:47:50.006Z"
   }
 }
