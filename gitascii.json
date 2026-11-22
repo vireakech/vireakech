@@ -11517,6 +11517,25 @@
       "locked": false,
       "visible": true,
       "zIndex": 3
+    },
+    {
+      "instanceId": "widget_7fb8a2ab-3b04-4ec1-97d3-a2d7c01c16b0",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 296
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
     }
   ],
   "globalStyles": {
@@ -11533,7 +11552,7 @@
   "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795353970732_7m75o",
-    "updatedAt": "2026-11-22T13:26:15.483Z"
+    "revision": "rev_1795354156081_qpk2j",
+    "updatedAt": "2026-11-22T13:29:25.425Z"
   }
 }
