@@ -11714,7 +11714,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 1496
+        "y": 1946
       },
       "size": {
         "width": 800,
@@ -11759,7 +11759,7 @@
       "name": "Ascii-text Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 1368
+        "y": 1818
       },
       "size": {
         "width": 800,
@@ -11786,11 +11786,51 @@
       "locked": false,
       "visible": true,
       "zIndex": 12
+    },
+    {
+      "instanceId": "widget_44b5fba0-f4cb-44b9-b83a-c76440a938dd",
+      "widgetId": "godprofile-trophies",
+      "name": "Godprofile-trophies Widget",
+      "position": {
+        "x": 0,
+        "y": 1336
+      },
+      "size": {
+        "width": 800,
+        "height": 280
+      },
+      "config": {
+        "accentColor": "#b6a891",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_df3eeae5-dc63-48bc-81a6-bad6cc715098",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 205,
+        "y": 1608
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {
+        "textColor": "#ff00ff",
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
     }
   ],
   "globalStyles": {
     "backgroundColor": "#050308",
-    "textColor": "#e5e5e5",
+    "textColor": "#ff00ff",
     "accentColor": "#ff00ff",
     "borderColor": "#ff00ff",
     "fontFamily": "'JetBrains Mono', monospace",
@@ -11802,7 +11842,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795417150210_15xn0",
-    "updatedAt": "2026-11-23T06:59:36.537Z"
+    "revision": "rev_1795417344454_1xttx",
+    "updatedAt": "2026-11-23T07:02:29.698Z"
   }
 }

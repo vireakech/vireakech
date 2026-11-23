@@ -1,5 +1,5 @@
 
-<svg width="800" height="1542" viewBox="0 0 800 1542" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800" height="1992" viewBox="0 0 800 1992" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
 
@@ -29,7 +29,7 @@
     }
   </style>
 
-  <rect class="" width="800" height="1542" fill="#ffffff" rx="0" />
+  <rect class="" width="800" height="1992" fill="#ffffff" rx="0" />
 
   
     <g transform="translate(0, 584)" id="widget-widget_1795358725830_2">
@@ -847,7 +847,7 @@
         <circle cx="200" cy="200" r="100" fill="none" stroke="#ff00ff" stroke-width="1.5" opacity="0.25"/>
         <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 200 200" to="360 200 200" dur="30s" repeatCount="indefinite"/>
       </g>
-      <text x="200" y="384" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.55">GodProfile Globe</text>
+      <text x="200" y="384" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.55">GodProfile Globe</text>
     </svg>
   
   
@@ -993,19 +993,19 @@
         <circle cx="200" cy="65" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="200" cy="65" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="200" cy="65" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="200" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">JS</text>
+        <text x="200" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">JS</text>
       
 
         <circle cx="200" cy="130" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="200" cy="130" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="200" cy="130" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="200" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">HTML</text>
+        <text x="200" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">HTML</text>
       
 
         <circle cx="200" cy="195" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="200" cy="195" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="200" cy="195" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="200" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">CSS</text>
+        <text x="200" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">CSS</text>
       
 
       <text x="400" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#ff00ff" opacity="0.7" font-weight="bold" letter-spacing="2">BACKEND</text>
@@ -1014,19 +1014,19 @@
         <circle cx="400" cy="65" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="400" cy="65" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="400" cy="65" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="400" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Postgres</text>
+        <text x="400" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">Postgres</text>
       
 
         <circle cx="400" cy="130" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="400" cy="130" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="400" cy="130" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="400" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Docker</text>
+        <text x="400" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">Docker</text>
       
 
         <circle cx="400" cy="195" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="400" cy="195" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="400" cy="195" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="400" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">DJANGO</text>
+        <text x="400" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">DJANGO</text>
       
 
       <text x="600" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#ff00ff" opacity="0.7" font-weight="bold" letter-spacing="2">DEVOPS</text>
@@ -1035,19 +1035,19 @@
         <circle cx="600" cy="65" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="600" cy="65" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="600" cy="65" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="600" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Git</text>
+        <text x="600" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">Git</text>
       
 
         <circle cx="600" cy="130" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="600" cy="130" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="600" cy="130" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="600" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">GitHub</text>
+        <text x="600" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">GitHub</text>
       
 
         <circle cx="600" cy="195" r="22" fill="url(#nglow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)" opacity="0.5"/>
         <circle cx="600" cy="195" r="14" fill="#151c25" stroke="#ff00ff" stroke-width="1.5" opacity="0.9"/>
         <circle cx="600" cy="195" r="5" fill="#ff00ff" filter="url(#glow-widget_ccf04aa4-a9c2-4710-9cb3-09c1c0f0c440)"/>
-        <text x="600" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Linux</text>
+        <text x="600" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.9">Linux</text>
       
     </svg>
   
@@ -1226,7 +1226,7 @@
     </g>
   
 
-    <g transform="translate(0, 1496)" id="widget-widget_a7d9fc0b-dbc6-4682-b704-6b75b31adbca">
+    <g transform="translate(0, 1946)" id="widget-widget_a7d9fc0b-dbc6-4682-b704-6b75b31adbca">
 
       
       
@@ -1477,7 +1477,7 @@
     </g>
   
 
-    <g transform="translate(0, 1368)" id="widget-widget_28f7c4ee-8885-4067-a3dc-361e69bbd0ec_0">
+    <g transform="translate(0, 1818)" id="widget-widget_28f7c4ee-8885-4067-a3dc-361e69bbd0ec_0">
 
       
         <style>
@@ -1547,6 +1547,275 @@
 <text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ff00ff" xml:space="preserve" style="animation-delay: 360ms; transform-origin: center;">██    ██    ██    ███████▀ ██████   ████████ █████▄   ██████   ██       ████████</text>
 <text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80" y="55.44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ff00ff" xml:space="preserve" style="animation-delay: 540ms; transform-origin: center;"> ▀████▀     ██    ██  ▀██▄ ██       ██    ██ ██  ▀██▄ ██       ██    ▄▄ ██    ██</text>
 <text class="anim-target" x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#ff00ff" xml:space="preserve" style="animation-delay: 720ms; transform-origin: center;">   ▀▀    ████████ ██    ██ ████████ ██    ██ ██    ██ ████████  ▀████▀  ██    ██</text>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1336)" id="widget-widget_44b5fba0-f4cb-44b9-b83a-c76440a938dd">
+
+      
+      
+      
+      
+      
+    <svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 230" preserveAspectRatio="xMidYMid meet">
+      <defs>
+        <linearGradient id="bgGrad-widget_44b5fba0-f4cb-44b9-b83a-c76440a938dd" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0b0f14"/>
+          <stop offset="100%" stop-color="#151c25"/>
+        </linearGradient>
+        
+      </defs>
+      <rect width="800" height="230" fill="url(#bgGrad-widget_44b5fba0-f4cb-44b9-b83a-c76440a938dd)" rx="12"/>
+      <text x="16" y="24" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#b6a891" opacity="0.7" letter-spacing="1">TROPHY CASE</text>
+      <text x="200" y="24" font-family="Consolas, monospace" font-size="11" fill="#ff00ff" opacity="0.4">@vireakech</text>
+      <line x1="16" y1="32" x2="784" y2="32" stroke="#b6a891" stroke-width="0.5" opacity="0.2"/>
+      
+      <!-- Trophy: Stars (rank C) -->
+      <g transform="translate(11,48)">
+        <rect width="120" height="170" rx="10" ry="10" fill="#151c25" fill-opacity="0.8" stroke="#ff00ff" stroke-width="1.5" >
+          
+        </rect>
+        
+        <!-- Cup icon -->
+        <g transform="translate(60,62)" fill="#ff00ff" opacity="0.9">
+          <path d="M-16,-24 L16,-24 L20,-8 C20,4 12,12 4,14 L4,20 L10,20 L10,26 L-10,26 L-10,20 L-4,20 L-4,14 C-12,12 -20,4 -20,-8 Z M-22,-24 L-16,-24 L-16,-10 C-20,-12 -22,-18 -22,-24 Z M22,-24 L16,-24 L16,-10 C20,-12 22,-18 22,-24 Z"/>
+        </g>
+        <!-- Title -->
+        <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff">Stars</text>
+        <!-- Value -->
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#ff00ff">12</text>
+        <!-- Rank badge -->
+        <rect x="47" y="142" width="26" height="18" rx="5" fill="#ff00ff" opacity="0.18"/>
+        <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#ff00ff">C</text>
+      </g>
+    
+
+      <!-- Trophy: Commits (rank B) -->
+      <g transform="translate(142,48)">
+        <rect width="120" height="170" rx="10" ry="10" fill="#151c25" fill-opacity="0.8" stroke="#cd7f32" stroke-width="1.5" >
+          
+        </rect>
+        
+        <!-- Cup icon -->
+        <g transform="translate(60,62)" fill="#cd7f32" opacity="0.9">
+          <path d="M-16,-24 L16,-24 L20,-8 C20,4 12,12 4,14 L4,20 L10,20 L10,26 L-10,26 L-10,20 L-4,20 L-4,14 C-12,12 -20,4 -20,-8 Z M-22,-24 L-16,-24 L-16,-10 C-20,-12 -22,-18 -22,-24 Z M22,-24 L16,-24 L16,-10 C20,-12 22,-18 22,-24 Z"/>
+        </g>
+        <!-- Title -->
+        <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff">Commits</text>
+        <!-- Value -->
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#cd7f32">433</text>
+        <!-- Rank badge -->
+        <rect x="47" y="142" width="26" height="18" rx="5" fill="#cd7f32" opacity="0.18"/>
+        <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#cd7f32">B</text>
+      </g>
+    
+
+      <!-- Trophy: PRs (rank B) -->
+      <g transform="translate(273,48)">
+        <rect width="120" height="170" rx="10" ry="10" fill="#151c25" fill-opacity="0.8" stroke="#cd7f32" stroke-width="1.5" >
+          
+        </rect>
+        
+        <!-- Cup icon -->
+        <g transform="translate(60,62)" fill="#cd7f32" opacity="0.9">
+          <path d="M-16,-24 L16,-24 L20,-8 C20,4 12,12 4,14 L4,20 L10,20 L10,26 L-10,26 L-10,20 L-4,20 L-4,14 C-12,12 -20,4 -20,-8 Z M-22,-24 L-16,-24 L-16,-10 C-20,-12 -22,-18 -22,-24 Z M22,-24 L16,-24 L16,-10 C20,-12 22,-18 22,-24 Z"/>
+        </g>
+        <!-- Title -->
+        <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff">PRs</text>
+        <!-- Value -->
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#cd7f32">45</text>
+        <!-- Rank badge -->
+        <rect x="47" y="142" width="26" height="18" rx="5" fill="#cd7f32" opacity="0.18"/>
+        <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#cd7f32">B</text>
+      </g>
+    
+
+      <!-- Trophy: Issues (rank C) -->
+      <g transform="translate(404,48)">
+        <rect width="120" height="170" rx="10" ry="10" fill="#151c25" fill-opacity="0.8" stroke="#ff00ff" stroke-width="1.5" >
+          
+        </rect>
+        
+        <!-- Cup icon -->
+        <g transform="translate(60,62)" fill="#ff00ff" opacity="0.9">
+          <path d="M-16,-24 L16,-24 L20,-8 C20,4 12,12 4,14 L4,20 L10,20 L10,26 L-10,26 L-10,20 L-4,20 L-4,14 C-12,12 -20,4 -20,-8 Z M-22,-24 L-16,-24 L-16,-10 C-20,-12 -22,-18 -22,-24 Z M22,-24 L16,-24 L16,-10 C20,-12 22,-18 22,-24 Z"/>
+        </g>
+        <!-- Title -->
+        <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff">Issues</text>
+        <!-- Value -->
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#ff00ff">8</text>
+        <!-- Rank badge -->
+        <rect x="47" y="142" width="26" height="18" rx="5" fill="#ff00ff" opacity="0.18"/>
+        <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#ff00ff">C</text>
+      </g>
+    
+
+      <!-- Trophy: Repos (rank C) -->
+      <g transform="translate(535,48)">
+        <rect width="120" height="170" rx="10" ry="10" fill="#151c25" fill-opacity="0.8" stroke="#ff00ff" stroke-width="1.5" >
+          
+        </rect>
+        
+        <!-- Cup icon -->
+        <g transform="translate(60,62)" fill="#ff00ff" opacity="0.9">
+          <path d="M-16,-24 L16,-24 L20,-8 C20,4 12,12 4,14 L4,20 L10,20 L10,26 L-10,26 L-10,20 L-4,20 L-4,14 C-12,12 -20,4 -20,-8 Z M-22,-24 L-16,-24 L-16,-10 C-20,-12 -22,-18 -22,-24 Z M22,-24 L16,-24 L16,-10 C20,-12 22,-18 22,-24 Z"/>
+        </g>
+        <!-- Title -->
+        <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff">Repos</text>
+        <!-- Value -->
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#ff00ff">9</text>
+        <!-- Rank badge -->
+        <rect x="47" y="142" width="26" height="18" rx="5" fill="#ff00ff" opacity="0.18"/>
+        <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#ff00ff">C</text>
+      </g>
+    
+
+      <!-- Trophy: Followers (rank C) -->
+      <g transform="translate(666,48)">
+        <rect width="120" height="170" rx="10" ry="10" fill="#151c25" fill-opacity="0.8" stroke="#ff00ff" stroke-width="1.5" >
+          
+        </rect>
+        
+        <!-- Cup icon -->
+        <g transform="translate(60,62)" fill="#ff00ff" opacity="0.9">
+          <path d="M-16,-24 L16,-24 L20,-8 C20,4 12,12 4,14 L4,20 L10,20 L10,26 L-10,26 L-10,20 L-4,20 L-4,14 C-12,12 -20,4 -20,-8 Z M-22,-24 L-16,-24 L-16,-10 C-20,-12 -22,-18 -22,-24 Z M22,-24 L16,-24 L16,-10 C20,-12 22,-18 22,-24 Z"/>
+        </g>
+        <!-- Title -->
+        <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#ff00ff">Followers</text>
+        <!-- Value -->
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#ff00ff">5</text>
+        <!-- Rank badge -->
+        <rect x="47" y="142" width="26" height="18" rx="5" fill="#ff00ff" opacity="0.18"/>
+        <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#ff00ff">C</text>
+      </g>
+    
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(205, 1608)" id="widget-widget_df3eeae5-dc63-48bc-81a6-bad6cc715098">
+
+      
+      
+      <rect class="" x="0" y="0" width="390" height="210" fill="#050308" stroke="#ff00ff" stroke-width="0" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="&apos;JetBrains Mono&apos;, monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB STREAK STATS ]</text>
+    <style>
+@keyframes currstreak {
+                0% { font-size: 3px; opacity: 0.2; }
+                80% { font-size: 34px; opacity: 1; }
+                100% { font-size: 28px; opacity: 1; }
+            }
+            @keyframes fadein {
+                0% { opacity: 0; }
+                100% { opacity: 1; }
+            }
+</style>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' style='isolation: isolate' direction='ltr' x="16" y="44" width="358" height="150" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 195">
+        
+        <defs>
+            <clipPath id='outer_rectangle'>
+                <rect width='495' height='195' rx='4'/>
+            </clipPath>
+            <mask id='mask_out_ring_behind_fire'>
+                <rect width='495' height='195' fill='white'/>
+                <ellipse id='mask-ellipse' cx='247.5' cy='32' rx='13' ry='18' fill='black'/>
+            </mask>
+            
+        </defs>
+        <g clip-path='url(#outer_rectangle)'>
+            <g style='isolation: isolate'>
+                <rect stroke='#000000' stroke-opacity='0' fill='#151515' rx='4' x='0.5' y='0.5' width='494' height='194'/>
+            </g>
+            <g style='isolation: isolate'>
+                <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#E4E2E2' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
+                <line x1='330' y1='28' x2='330' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#E4E2E2' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
+            </g>
+            <g style='isolation: isolate'>
+                <!-- Total Contributions big number -->
+                <g transform='translate(82.5, 48)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
+                        434
+                    </text>
+                </g>
+
+                <!-- Total Contributions label -->
+                <g transform='translate(82.5, 84)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.7s'>
+                        Total Contributions
+                    </text>
+                </g>
+
+                <!-- Total Contributions range -->
+                <g transform='translate(82.5, 114)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.8s'>
+                        Jan 20, 2025 - Present
+                    </text>
+                </g>
+            </g>
+            <g style='isolation: isolate'>
+                <!-- Current Streak label -->
+                <g transform='translate(247.5, 108)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FB8C00' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
+                        Current Streak
+                    </text>
+                </g>
+
+                <!-- Current Streak range -->
+                <g transform='translate(247.5, 145)'>
+                    <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
+                        Nov 7, 2026 - Nov 22, 2026
+                    </text>
+                </g>
+
+                <!-- Ring around number -->
+                <g mask='url(#mask_out_ring_behind_fire)'>
+                    <circle cx='247.5' cy='71' r='40' fill='none' stroke='#FB8C00' stroke-width='5' style='opacity: 0; animation: fadein 0.5s linear forwards 0.4s'></circle>
+                </g>
+                <!-- Fire icon -->
+                <g transform='translate(247.5, 19.5)' stroke-opacity='0' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
+                    <path d='M -12 -0.5 L 15 -0.5 L 15 23.5 L -12 23.5 L -12 -0.5 Z' fill='none'/>
+                    <path d='M 1.5 0.67 C 1.5 0.67 2.24 3.32 2.24 5.47 C 2.24 7.53 0.89 9.2 -1.17 9.2 C -3.23 9.2 -4.79 7.53 -4.79 5.47 L -4.76 5.11 C -6.78 7.51 -8 10.62 -8 13.99 C -8 18.41 -4.42 22 0 22 C 4.42 22 8 18.41 8 13.99 C 8 8.6 5.41 3.79 1.5 0.67 Z M -0.29 19 C -2.07 19 -3.51 17.6 -3.51 15.86 C -3.51 14.24 -2.46 13.1 -0.7 12.74 C 1.07 12.38 2.9 11.53 3.92 10.16 C 4.31 11.45 4.51 12.81 4.51 14.2 C 4.51 16.85 2.36 19 -0.29 19 Z' fill='#FB8C00' stroke-opacity='0'/>
+                </g>
+
+                <!-- Current Streak big number -->
+                <g transform='translate(247.5, 48)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
+                        16
+                    </text>
+                </g>
+
+            </g>
+            <g style='isolation: isolate'>
+                <!-- Longest Streak big number -->
+                <g transform='translate(412.5, 48)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.2s'>
+                        16
+                    </text>
+                </g>
+
+                <!-- Longest Streak label -->
+                <g transform='translate(412.5, 84)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.3s'>
+                        Longest Streak
+                    </text>
+                </g>
+
+                <!-- Longest Streak range -->
+                <g transform='translate(412.5, 114)'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.4s'>
+                        Nov 7, 2026 - Nov 22, 2026
+                    </text>
+                </g>
+            </g>
+            
+        </g>
     </svg>
   
   
